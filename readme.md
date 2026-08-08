@@ -1,5 +1,4 @@
 # Learning git
 
-Introduction of git
 
-learning about branches
+learned how to resolve the conflicts
